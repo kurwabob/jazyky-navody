@@ -31,11 +31,11 @@ Ke každému produktu je nutné přidat uživatelské pole `hcc_checkout_url` s 
 
 Nejprve se ujistěte že máte zobrazena už. pole. Jděte do editace produktu a vysuňte si lištu vpravo nahoře `screen option`. A zaškrtněte `Custom fields`:
 
-![Obrázek lišty screen option](custom-fields.png)
+![Obrázek lišty screen option](images/custom-fields.png)
 
 Pak se vám u produktu zobrazí uživatelská pole. Jsou dole pod nastavením produktu:
 
-![Obrázek už. pole u produktu](custom-field-edit.png)
+![Obrázek už. pole u produktu](images/custom-field-edit.png)
 
 Pole `hcc_checkout_url` je už zadáno na ES. Ale u ostaních bude zase potřeba ho vytvořit. Pokud existuje, je v rozbalovacím menu `Select`. Pak stačí ho vybrat a do pole `Value` zadáme URL, viz. níže.
 
@@ -45,7 +45,7 @@ Pokud není v rozbalovací menu tak klikneme na `Enter new` a název pole vypln�
 
 Jako URL do pole `Value` dáme permalink stránky s formulářem.
 
-![Permalink](permalink.png)
+![Permalink](images/permalink.png)
 
 ### Příklad
 
