@@ -26,17 +26,17 @@ U **sekce** (modrá barva) je potřeba nastavit `Spacing` takto:
 
 Jak `Margin` tak `Padding` nastavit na 0.
 
-![Nastavení Spacing u Sekce](section-settings.png)
+![Nastavení Spacing u Sekce](images/section-settings.png)
 
 U řádku nastavit takto `Sizing` a `Spacing`:
 
 **Sizing** – `Width` a `Max Width` na 100%.
 
-![Nastavení Sizing u Řádku](row-sizing.png)
+![Nastavení Sizing u Řádku](images/row-sizing.png)
 
 **Spacing** – `Margin` i `Padding` na 0px, kromě `Margin left` a `Margin right`, ty nastavit na auto.
 
-![Nastavení Spacing u Řádku](row-spacing.png)
+![Nastavení Spacing u Řádku](images/row-spacing.png)
 
 A do této řádky už normálně vložíme modul (černé +).
 
